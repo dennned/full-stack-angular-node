@@ -32,7 +32,7 @@ export class ListingDataFormComponent implements OnInit {
       id: null,
       name: this.name,
       description: this.description,
-      price: Number(this.price)
+      price: Number(this.price),
     });
   }
 
