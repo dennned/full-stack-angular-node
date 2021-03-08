@@ -4,7 +4,7 @@ export const fakeListings = [{
     description: 'A very old boat. Bargain price',
     price: 700,
     user_id: 1,
-    views: 1,
+    views: 3,
 }, {
     id: '345',
     name: 'Computer',

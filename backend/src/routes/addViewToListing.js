@@ -1,4 +1,5 @@
 import { db } from '../database';
+import { fakeListings } from './fake-data';
 
 export const addViewToListingRoute = {
     method: 'POST',

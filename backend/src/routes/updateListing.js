@@ -1,4 +1,3 @@
-import { db } from '../database';
 import { fakeListings } from './fake-data';
 import Boom from '@hapi/boom';
 
